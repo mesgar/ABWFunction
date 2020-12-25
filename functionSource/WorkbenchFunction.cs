@@ -166,7 +166,7 @@ namespace Workbench.Functions
 
       //This is the ID of your AD Tenant
       //Environment.GetEnvironmentVariable("WORKBENCH_DIRECTORY_ID", EnvironmentVariableTarget.Process);
-      var AUTHORITY = "tedorg.onmicrosoft.com";
+      var AUTHORITY = "xxxxxx.onmicrosoft.com";
 
       //This is the AD registration of the Workbench Gateway API that you already have registered in AD
       //Environment.GetEnvironmentVariable("WORKBENCH_RESOURCE_ID", EnvironmentVariableTarget.Process);
